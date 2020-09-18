@@ -1,0 +1,21 @@
+.logoimg{
+	text-align:center;
+	border-radius:30px;
+}
+.text-center{
+	padding-bottom:30px;
+	font-size:30px;
+	color:red;
+
+}
+
+.username{
+	position:absolute;
+	right:650px;
+	font-size:20px;
+	margin: 5px;
+}
+.carousel-itemactive{
+	position: absolute;
+	bottom:400px;
+}

@@ -1,0 +1,86 @@
+.heading{
+	color:red; 
+	position:absolute;
+	right:250px;
+	background-color:yellow;
+}
+.logo{
+	position:relative;
+	height:70px;
+	width:70px;
+	border:2px solid red;
+	border-radius:50px;
+}
+.logo{
+	position:absolute;
+	top:10px;
+	right:150px;
+}
+.loginhere{
+	color:brown;
+	position:absolute;
+	right:450px;
+	top:70px;
+
+}
+.username{
+	position:absolute;
+	bottom:550px;
+	right:400px;
+	color:red;
+}
+.submit{
+	position:absolute;
+	bottom:530px;
+	right:500px;
+}
+.register{
+	position:absolute;
+	right:50px;
+	bottom:560px;
+	border:4px solid red;
+}
+.contact{
+	position:absolute;
+	right:50px;
+	bottom:540px;
+	border:solid red;
+}
+.about{
+	color:violet;
+	position:absolute;
+	bottom:450px;
+}
+.text{
+	position:absolute;
+	bottom:430px;
+}
+.feedback{
+	position:absolute;
+	bottom:350px;
+	font-size:30px;
+	color:violet;
+}
+.rating1{
+	position:absolute;
+	bottom:300px;
+	right:430px;
+	color:black;
+
+}
+.rating{
+	position:absolute;
+	bottom:290px;
+	color:violet;
+}
+body{
+	background-image:url(https://t3.ftcdn.net/jpg/01/04/88/12/240_F_104881269_SIBZVzIxn6gAFSmP5LURdycf9v2IxK6F.jpg);
+    background-repeat:no-repeat;
+    background-position:right;
+    background-size:500px;
+    background-blend-mode:luminosity;
+
+}
+
+
+
